@@ -1,0 +1,13 @@
+{
+  "name": "path-pony",
+  "version": "1.0.0",
+  "description": "Ponyfill that uses path or path-browserify depending on the environment.",
+  "main": "index.js",
+  "browser": "browser.js",
+  "keywords": ["ponyfill", "path", "react-native"],
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "path-browserify": "^1.0.1"
+  }
+}
