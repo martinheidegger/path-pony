@@ -4,7 +4,7 @@
   "description": "Ponyfill that uses path or path-browserify depending on the environment.",
   "main": "index.js",
   "browser": "browser.js",
-  "keywords": ["ponyfill", "path", "react-native"],
+  "keywords": ["ponyfill", "path", "react-native", "browser"],
   "author": "Martin Heidegger <martin.heidegger@gmail.com>",
   "license": "MIT",
   "dependencies": {
